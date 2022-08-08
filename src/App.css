@@ -1,0 +1,39 @@
+h1{
+  color: rgb(255, 255, 255);
+  font-size: .9cm;
+  font-style: italic;
+}
+.pic{
+  width: 250px;
+  border-radius: 7px;
+  box-shadow: 5px 5px 15px rgba(136, 135, 135, 0.3);
+  margin-left: 500px;
+  margin-bottom: 20px;
+  margin-top: 80px;
+ 
+  
+}
+h2{
+  text-align: center;
+  color: rgb(24, 123, 159);
+}
+.button{
+  font-size: 25px;
+  cursor: pointer;
+  width: 50%;
+  height: 50px;
+  border-radius: 100px;
+  background-color: rgb(25, 115, 251);
+  color: rgb(13, 11, 11);
+  margin: 20px 20vh 20px 50vh;
+}
+.profile{
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.info{
+  margin: auto auto auto 100px;
+  text-align: left;
+}
